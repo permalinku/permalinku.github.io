@@ -200,7 +200,7 @@ class Tree {
     translate(this.pos.x, this.pos.y, this.pos.z);
 
     // Massive scale
-    scale(200);
+    //scale(200);
 
     // If upside down, uncomment next line:
     // rotateX(PI);
