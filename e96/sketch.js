@@ -13,7 +13,7 @@ function setup() {
   cols = floor(width / scale);
   rows = floor(height / scale);
   
-  for (let i = 0; i < 6000; i++) {
+  for (let i = 0; i < 4001; i++) {
     particles.push(new Particle());
   }
 }
